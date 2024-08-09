@@ -124,7 +124,7 @@
   }
   
   /* ATIVANDO O BOTÃO HAMBURGUER QUANDO O TAMANHO DA TELA ATINGIR 600PX */
-  @media (max-width: 600px){
+  @media (min-width: 600px){
     
     header{
         height: 20%;
