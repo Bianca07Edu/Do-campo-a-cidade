@@ -123,9 +123,7 @@
     left: 0;
   }
   
-  /* ATIVANDO O BOTÃO HAMBURGUER QUANDO O TAMANHO DA TELA ATINGIR 600PX */
-  @media (min-width: 600px){
-    
+
     header{
         height: 20%;
     }
